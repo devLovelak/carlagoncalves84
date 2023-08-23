@@ -1,25 +1,29 @@
-<img src = "giphy.gif" width = "325px" align = "right">
+<h1 align='center'> Salut🙋‍♀️, je m'appelle Carla. </h1>
 
-# ❤ Olá, bom ter você por aqui!
-
-
-Sou desenvolvedora web full stack junior.
-
-- 👩‍💻 Estudante em cybersecurity
+<p align='center'>
+  Je suis portugais🇵🇹 mais j'habite en France🇫🇷, et je suis développeuse Web Full Stack Junior. 👩‍💻
+</p>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css" alt="css" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50" height="50"/>&nbsp;
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50" height="auto"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="60" height="60"/>&nbsp;
 </div>
+<hr>
 
----
-<div>
-  
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style-for-the-badge&logo-linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="40"/>&nbsp;
- 
+<h4>🖥️J'apprends actuellement...</h4>
+<p>
+ - 👩‍💻 cybersecurity<br>
+- <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+</p>
 
+<hr>
+
+<br>
+<p align="left">
+ <img src="https://github-readme-stats.vercel.app/api?username=carlagoncalves84&show_icons=true&theme=synthwave" alt="github stats" width="65%" />&nbsp;&nbsp;&nbsp;
  
-</div>
+</p>
+
