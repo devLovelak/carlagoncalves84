@@ -1,4 +1,4 @@
-ght="<h1 align='center'> Salut🙋‍♀️, je m'appelle Carla. </h1>
+<h1 align='center'> Salut🙋‍♀️, je m'appelle Carla. </h1>
 
 <p align='center'>
   Je suis portugais🇵🇹 mais j'habite en France🇫🇷, et je suis développeuse Web Full Stack Junior. 👩‍💻
