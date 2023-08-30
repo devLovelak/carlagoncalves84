@@ -30,9 +30,10 @@ ght="<h1 align='center'> Salut🙋‍♀️, je m'appelle Carla. </h1>
  <img src="https://github-readme-stats.vercel.app/api?username=carlagoncalves84&show_icons=true&theme=synthwave" alt="github stats" height="180cm" />&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlagoncalves84&show_icons=true&theme=synthwave" alt="github stats" height="180cm" />&nbsp;&nbsp;&nbsp;
 
+</p>
 
- 
- 
+<p>
+  ![Snake animation](https://github.com/carlagoncalves84/carlagoncalves84/blob/output/github-contribution-grid-snake.svg)
  
 </p>
 
