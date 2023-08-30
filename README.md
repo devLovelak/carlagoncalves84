@@ -32,8 +32,4 @@
 
 </p>
 
-<p>
-  ![Snake animation](https://github.com/carlagoncalves84/carlagoncalves84/blob/output/github-contribution-grid-snake.svg)
- 
-</p>
 
