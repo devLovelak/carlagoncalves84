@@ -22,9 +22,9 @@
 
 <br>
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=carlagoncalves84&show_icons=true&theme=synthwave" alt="github stats" width="65%" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlagoncalves84&hide_progress=true" alt="github stats" width="65%" />&nbsp;&nbsp;&nbsp;
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=carlagoncalves84&show_icons=true&theme=synthwave" alt="github stats" width="50%" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlagoncalves84&hide_progress=true&theme=synthwave" alt="github stats" width="50%" />&nbsp;&nbsp;&nbsp;
+ 
  
  
 </p>
